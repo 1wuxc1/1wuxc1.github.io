@@ -22,7 +22,7 @@
   }
 
   function getFillColor() {
-    return isDarkMode() ? 'hsl(0, 0%, 18%)' : 'hsl(0, 0%, 95%)';
+    return isDarkMode() ? '#1f4762' : 'hsl(0, 0%, 95%)';
   }
 
   // ── Bootstrap: create container ─────────────────────────────────
